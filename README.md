@@ -1,1 +1,1 @@
-"# algorithm-challenges" 
+A repository full of algorithmn challenges from freecodecamp.com with my solutions.
