@@ -2,8 +2,7 @@
 
 function reverseString(str)
 {
-    var rev = str.split('').reverse().join('');
-    return rev;
+    return str.split('').reverse().join('');
 }
 
 reverseString("hello");
